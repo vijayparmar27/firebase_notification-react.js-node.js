@@ -8,13 +8,13 @@ importScripts(
 
 // Initialize Firebase app in the service worker
 const firebaseConfig = {
-  apiKey: "AIzaSyBDyvPlOcA_wnEcBGQDCg7k4LJ9Fg86rwk",
+  apiKey: "",
   authDomain: "fir-app-73b06.firebaseapp.com",
   projectId: "fir-app-73b06",
   storageBucket: "fir-app-73b06.appspot.com",
-  messagingSenderId: "602839581159",
-  appId: "1:602839581159:web:228e85826cc0a42df33d42",
-  measurementId: "G-MW3874HSJJ",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 firebase.initializeApp(firebaseConfig);
